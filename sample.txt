@@ -1,0 +1,4 @@
+name of student 1 is: sample
+marks: 99
+name of student 2 is: sample2
+marks: 98
